@@ -59,9 +59,6 @@ Criei este repositório para **organizar e documentar minha jornada como desenvo
 ###  [Gran Faculdade](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Gran%20Faculdade)
 
 - [Análise e Desenvolvimento de Sistemas](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Gran%20Faculdade/An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas)
-  - [Carreira e Futuro](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Gran%20Faculdade/An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas/Carreira%20e%20Futuro)
-    - [UA 1 - Mundo Digital (Cibercultura, Espaços Digitais, Gamificação, Memes e Mídias Digitais)](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Gran%20Faculdade/An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas/Carreira%20e%20Futuro/UA%201%20-%20Mundo%20Digital%20(Cibercultura%2C%20Espa%C3%A7os%20Digitais%2C%20Gamifica%C3%A7%C3%A3o%2C%20Memes%20e%20M%C3%ADdias%20Digitais))
-    - [UA 2 - Cultura Maker e Inovação](https://github.com/vdonoladev/aprendendo-programacao/tree/master/Gran%20Faculdade/An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas/Carreira%20e%20Futuro/UA%202%20-%20Cultura%20Maker%20e%20Inova%C3%A7%C3%A3o)
 
 ### ⚡ [JavaScript](https://github.com/vdonoladev/aprendendo-programacao/tree/master/JavaScript)
 
