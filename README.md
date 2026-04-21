@@ -1,5 +1,9 @@
 <div align="center">
 
+# DEV JOURNEY LOG
+
+### Portfólio de Aprendizado em Programação
+
 ```
 ╔═══════════════════════════════════════════════════════╗
 ║         D E V   J O U R N E Y   L O G                 ║
