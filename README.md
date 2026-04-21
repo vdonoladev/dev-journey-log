@@ -4,13 +4,6 @@
 
 ### Portfólio de Aprendizado em Programação
 
-```
-╔═══════════════════════════════════════════════════════╗
-║         D E V   J O U R N E Y   L O G                 ║
-║         Portfólio de Aprendizado em Programação       ║
-╚═══════════════════════════════════════════════════════╝
-```
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-F8952D?style=for-the-badge)](LICENSE)
 ![Status](https://img.shields.io/badge/Status-Em%20Progresso-22C55E?style=for-the-badge)
 ![Tecnologias](https://img.shields.io/badge/Tecnologias-10+-3B82F6?style=for-the-badge)
